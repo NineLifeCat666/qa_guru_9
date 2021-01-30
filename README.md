@@ -1,2 +1,2 @@
 # qa_guru_9
-Jenkins with parameters
+Styding how to us Jenkins with parameters
